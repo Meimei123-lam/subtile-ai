@@ -1,0 +1,11 @@
+streamlit>=1.35.0
+opencv-python-headless
+pillow
+numpy
+pandas
+paddlepaddle
+paddleocr>=2.7.0
+deep-translator
+faster-whisper
+simple-lama-inpainting
+requests
